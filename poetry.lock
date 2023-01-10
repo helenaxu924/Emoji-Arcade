@@ -1,0 +1,35 @@
+[[package]]
+name = "art"
+version = "5.2"
+description = "ASCII Art Library For Python"
+category = "main"
+optional = false
+python-versions = ">=2.7"
+
+[package.extras]
+dev = ["coverage (>=4.1)", "codecov (>=2.0.15)", "vulture (>=1.0)", "bandit (>=1.5.1)", "pydocstyle (>=3.0.0)"]
+
+[[package]]
+name = "emoji"
+version = "1.4.1"
+description = "Emoji for Python"
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.extras]
+dev = ["pytest", "coverage", "coveralls"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "e43015068e58fc0b261d415eb887899476c884b634ae7d86eadddabf5fa7f344"
+
+[metadata.files]
+art = [
+    {file = "art-5.2-py2.py3-none-any.whl", hash = "sha256:0d289b585a1d36720318383643bde71dc4e10416759486ec800a472091bef1a7"},
+    {file = "art-5.2.tar.gz", hash = "sha256:c069b08cd11dec860dab1ce2cc2550ffcf1b76968ff322b4303241e030696ba7"},
+]
+emoji = [
+    {file = "emoji-1.4.1.tar.gz", hash = "sha256:6b539615c0b31b4274e10db949672c9cd1e6d3d8eb835ef421d11db3f46066d8"},
+]
