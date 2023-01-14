@@ -7,7 +7,7 @@ Console-based arcade game designed with Python emoji package. Includes three the
 
 Emoji-Says/Pictionary game: 
 
-<img src="pictionary.gif" width="450" height="550"/>
+<img src="pictionary.gif" width="550" height="550"/>
 
 Two player tic-tac-toe:
 
@@ -15,5 +15,5 @@ Two player tic-tac-toe:
 
 Simon says/Emoji says memorization game:
 
-<img src="emojisays.gif" width="450" height="550"/>
+<img src="emojisays.gif" width="750" height="550"/>
 
